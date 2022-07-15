@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac497d46e6d52a44abee29099bc6bc79, type: 3}
+  m_Name: RomperRoca
+  m_EditorClassIdentifier: 
+  name: RomperRoca
+  Key: RomperRoca
+  StartNode: {fileID: 11400000, guid: b5fab84631ec8ac499ee19fc0e758ce2, type: 2}
+  SecondNode: {fileID: 11400000, guid: c1be6b8d2d8379f42928a17c1843b72c, type: 2}

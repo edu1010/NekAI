@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Jetpack Emitter
+  - row
+  - BulletsEvent
+  - EngineBulllet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemies
+  - Ignore
+  - Dash Wall
+  - Platform
+  - IngnoreAllExcptPlayer
+  - Bullets
+  - AffectParticles
+  - Health Particles
+  - Lava Spikes
+  - Particle Detector
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 2166943029
+    locked: 0
+  - name: Far background
+    uniqueID: 3732663497
+    locked: 0
+  - name: Background
+    uniqueID: 930767527
+    locked: 0
+  - name: Back-Midground
+    uniqueID: 1355270055
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 96651009
+    locked: 0
+  - name: 'Fore-Midground '
+    uniqueID: 1588062993
+    locked: 0
+  - name: Foregroud
+    uniqueID: 2975753955
+    locked: 0
+  - name: Near foreground
+    uniqueID: 3148007593
+    locked: 0

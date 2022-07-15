@@ -1,0 +1,46 @@
+﻿Key;English;Catalan;Spanish
+prueba;English;Catalan;Spanish
+hola;hello;holinchi;HOLA
+RomperRoca;Cat;Gatet;Gato
+TextoRomperRoca1;This rock block us the path, I will improve your spatial cutter.;Aquesta roca ens bloqueja el camí, milloraré el teu cutter espacial.;Esta roca nos bloquea el camino, mejoraré tu cutter espacial.
+TextoRomperRoca2;Now you can use it as a sword, try to break that rock.;Ara hauries de poder utilitzar-la com una espasa làser, prova a trencar aquella roca.;Ahora deberias poder usarlo como una espada laser, prueba a romper esa roca.
+CogerPropulsor;NekAI;NekAI;NekAI
+CogerPropulsorText;Jetpack equipped! Hold "Z" in the keyboard or "A" in the gamepad to fly.;Jetpack equipat! El pots utilitzar fent servir la "Z" del teclat o la "A" del mando.;Ohh, ahora puedes usar el jetpack manteniendo la "Z" del teclado o la "A" del mando.
+CogerDash;NekAI;NekAI;NekAI
+CogerDashTexto;With this device you can teleport in short distances. Try it      by pressing 'C' or 'RT'.;Amb aquest dispositiu et pots teletransportar en petites distàncies. Prova-ho prement "C" o "RT".;Con este dispositivo puedes teletransportarte en distancias cortas. Pruébalo pulsando "C" o "RT"
+CogerPistola;NekAI;NekAI;NekAI
+CogerPistolaTexto;"Blaster equipped! Use "A" or "Y" in the gamepad to kill them all.;"Pistola equipada! La pots utilitzar prement la "A" o la "Y" al comandament.;Pistola equipada! Pulsa "A" para disparar o "Y" en el mando.
+IdiomaKey;L A N G U A G E;I D I O M A;I D I O M A
+Play;P L A Y;J U G A R;J U G A R
+Conf;O P T I O N S;O P C I O N S;O P C I O N E S
+Exit;E X I T;S O R T I R;S A L I R
+Back;B A C K;T O R N A R;V O L V E R
+NekAI;NekAI;NekAI;NekAI
+IntroGame1;It seems that the pieces have been distributed around the planet, we must find them.;Sembla que les peces s'han repartit pel planeta, hem de trobar-les.;Parece que las piezas se han repartido por el planeta, deberemos encontrarlas.
+IntroGame2;I detect enemies, be careful, move using the joystick or the arrow keys. Jump using the 'z' or 'a' of the command;Detecto enemics, ves amb compte, mou-te utilitzant el joystick o les fletxes del teclat. Salta usant la 'z' o la 'a' del comandament;Detecto enemigos, ten cuidado, muevete usando el joystick o las flechas del teclado.Salta usando la 'z' o la 'a' del mando
+ColecionableExtra1;Ongoing translation: DON'T TRUST THEM, The I ** ruined everything;Traducció en curs NO TE FIES D'ELLS, Les I ** ho van arruïnar tot;Tradución en curso: NO TE FIES DE ELLOS, Las I** lo arruinaron todo
+ColecionableExtra2;Translation in progress: The machines, they were, they ******** with all;Traducció en curs: Les màquines, furon elles, van ******  amb tots;Tradución en curso: Las maquinas, furon ellas, ****** con todos
+ColecionableExtra3;Translation in progress: They took advantage of us, it was all a hoax;Traducció en curs: Es van aprofitar de nosaltres, tot era un engany;Tradución en curso: Se aprovecharon de nosotros, todo era un engaño
+ColecionableExtra4;Translation in progress: The n *** we blew up, hopefully. END of transmission;Traducció en curs: La n *** la vam fer explotar, esperem que. FI de trasmision;Tradución en curso: La n*** la hicimos explotar, esperemos que.  FIN de trasmision
+Volume;V O L U M E;V O L U M;V O L U M E N
+Idiomas;E N G L I S H;C A T A L A;C A S T E L L A N O
+Laser;There is a piece that we need later, be careful this piece         when we get closer it can become somewhat unstable;Hi ha una peça que necessitem just davant, vés amb compte aquesta peça a l'apropar-nos es pot tornar una mica inestable;Hay una pieza que necesitamos justo delante, ten cuidado        esta pieza al acercarnos se puede volver algo inestable
+LaserRecogido;We have collected the laser, one piece less!;Hem recollit el làser, una peça menys!;Hemos recogido el laser, una pieza menos!
+NextText;Press ENTER or 'D-PAD';Prem  ENTER o 'D-PAD'; Presiona ENTER o 'D-PAD'
+PiezeRecogido;One piece less!;Una peça menys!;Una pieza menos!
+BulletHellEvent;I detect a piece of the ship just ahead, it seems out of control watch out!;Detecto una peça de la nau just davant, sembla fora de control compte!;Detecto una pieza de la nave justo delante, parece fuera de control cuidado!
+Cinematica1;Wake up!;Desperta!;Despierta!
+Cinematica1_1;Some pieces from the spaceship have fallen to the planet below us;Algunes peces de la nau han caigut al planeta més proper;Algunas piezas de la nave se han caído al planeta de abajo
+Cinematica1_2;We need to go to the planet and search the pieces!;Hem d'anar a bucar-les!;¡Hay que ir a buscarlas!
+Cinematica1_3;You'll need my help;Per això necessitaràs la meva ajuda;Para eso necesitarás mi ayuda
+Cinematica1_4;I'm going to connect to your helmet;Vaig a conectar-me al teu casc;Voy a conectarme a tu casco
+Cinematica1_5;I have already connected!;Ja m'he connectat ;Ya me he conectado
+Cinematica1_6;Are you ready?;Estàs preparat?;¿Estás preparado?
+Cinematica1_7;Let's go!;Anem-hi!;¡Vamos allá!
+CinematicaBoss1;Muahahaha! It was all a lie;Muajajajaja! T'he enganyat;!Muajajaja! Te engañé
+CinematicaBoss2; Thanks to the pieces that you have collected, I have created a robot to rule the galaxy;Gràcies a les peces que has recollit, he creat un robot per dominar tota la galaxia;Gracias a las piezas que has recogido, he creado un robot para dominar la galaxia
+Clif;It seems that the only way out is to jump;Sembla que l'única sortida és llançar-se;Parece que la única salida es lanzarse
+InitialWall;We couldn't pass;No pudem passar;No podemos pasar
+CinematicGun;Someone has left a gun there, we should take it, the way to the ship can be difficult;Algú ha deixat una arma allà, hauríem agafar-la, les coses es poden posar difícils.;Alguien ha dejado un arma allí, deberíamos cogerla, las cosas se pueden poner difíciles.
+CinematicTutorial;It seems that there enemies, remember that by pressing "X" you can attack;Sembla que aquí hi ha enemics, recorda que prement "X" pots atacar;Parece que ahí enemigos, recuerda que pulsando "X"  puedes atacar 
+Tutorial2;If you have enough of these particles you can heal yourself by pressing "E" on keyboard or "B" on command.;Si tens suficients d'aquestes partícules pots curar-te prement "E" en teclat o "B" en comandament;Si tienes suficientes de esas partículas puedes curarte pulsando "E" en teclado o "B" en mando
